@@ -1,0 +1,11 @@
+baseURL = ''
+languageCode = 'fr-fr'
+title = 'Open Embedded'
+theme = "hyde"
+
+
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/paulclrt/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/paulclrt/"}
+  ]
